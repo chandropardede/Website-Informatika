@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
   <link rel="shortcut icon" href="{{ asset('asset/img/logo_del.png') }}" />
 
-  <title>Informatika</title>
+  <title>SI</title>
   <style>
     body {
       min-width: 920px;
@@ -250,7 +250,7 @@
             <span>
               <span class="ms-1 text-light" style="font-size: 36px; font-family: Nunito">Institut Teknologi Del</span>
               <br>
-              <span class="ms-1 text-light" style="font-size: 20px; font-family: Nunito">Sarjana Informatika</span>
+              <span class="ms-1 text-light" style="font-size: 20px; font-family: Nunito">Sarjana Sistem Informasi</span>
             </span>
           </a>
         </div>
@@ -299,7 +299,7 @@
                     <div class="dropdown show">
                       <a class="nav-link dropdown-toggle text-light" href="#" style="font-size: 16px; font-family: Nunito" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" data-bs-target="#dropdownMenu">Akademik</a>
                       <ul class="dropdown-menu dropdown-menu-center dropcolor" aria-labelledby="dropdownMenuLink" id="dropdownMenu" style="width: fit-content;">
-                        <li><a class="dropdown-item text-light" href="/organisasi" style="font-size: 16px; font-family: Nunito;">Himasti</a></li>
+                        <li><a class="dropdown-item text-light" href="/organisasi" style="font-size: 16px; font-family: Nunito;">Himsi</a></li>
                         <hr>
                         <li><a class="dropdown-item text-light" href="/staffDosen" style="font-size: 16px; font-family: Nunito">Dosen</a></li>
                         <hr>
@@ -367,7 +367,7 @@
               <span>+62 632 331234</span>
               <br>
               <i class="ri-mail-line"></i>
-              <i>Informatika@del.ac.id</i>
+              <i>Sistem.Informasi@del.ac.id</i>
             </p>
           </div>
         </div>
@@ -385,7 +385,7 @@
     <!-- TANDA COPYRIGHT -->
 
     <div class="container-fluid d-flex justify-content-center" style="background-color: #000; font-family: Nunito; margin-bottom: -10px;">
-      <p class="justify-items-center" style="color: #f4f4f4 ; font-weight: 700"> &copy; 2023 Program Studi S1 INFORMATIKA - IT Del</p>
+      <p class="justify-items-center" style="color: #f4f4f4 ; font-weight: 700"> &copy; 2023 Program Studi S1 Sistem Informasi - IT Del</p>
     </div>
   </footer>
 

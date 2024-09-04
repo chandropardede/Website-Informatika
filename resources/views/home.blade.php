@@ -29,7 +29,7 @@
                     <img src="{{ asset('asset/img/pemandangan_3.jpg') }}" class="d-block w-100" alt="..." style="height: 500px;width:100%;object-fit: cover;">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Gedung Fakultas Informatika dan Teknik Elektro</h5>
-                        <p>Gedung ini digunakan untuk perkuliahan program studi S1-Informatika, S1-Sistem Informasi, dan S1-Teknik Elektro</p>
+                        <p>Gedung ini digunakan untuk perkuliahan program studi S1-Sistem Informasi, S1-Sistem Informasi, dan S1-Teknik Elektro</p>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -51,10 +51,10 @@
         </div>
     </div>
     <br>
-    <h1 class="text-body text-center"><strong>Program Studi <font style="color:rgba(0, 121, 194, 1);">Informatika</font></strong></h1>
-    <p class="container text-center mb-5 text-gray">Informatika merupakan salah satu core technology dalam
+    <h1 class="text-body text-center"><strong>Program Studi <font style="color:rgba(0, 121, 194, 1);">Sistem Informasi</font></strong></h1>
+    <p class="container text-center mb-5 text-gray">Sistem Informasi merupakan salah satu core technology dalam
         sistem teknologi yang dikenal sebagai Teknologi Informasi dan Komunikasi (Information and Communication
-        Technology), karena melalui pemfungsian Informatika-lah diperoleh produk-produk perangkat
+        Technology), karena melalui pemfungsian Sistem Informasi-lah diperoleh produk-produk perangkat
         lunak (software products) yang memungkinkan terwujudnya sifat intelligent dari Teknologi Informasi dan
         Komunikasi. Teknologi Informasi dan Komunikasi merupakan strategic enabling technology dalam menopang upaya
         pencerdasan kehidupan bangsa</p>

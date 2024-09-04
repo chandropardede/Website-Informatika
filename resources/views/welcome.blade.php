@@ -94,11 +94,11 @@
         <h1 class=" me-4 text-end">
             <label class="text-primary">Program Studi</label>
             <label class="text-white">Sarjana</label><br>
-            <label class="text-white ">Informatika</label>
+            <label class="text-white ">Sistem Informasi</label>
         </h1>
-        <h1 class="text-light text-center">Program Studi Informatika</h1>
+        <h1 class="text-light text-center">Program Studi Sistem Informasi</h1>
         <p class="text-light container text-center" style="
-        ">Informatika merupakan salah satu core technology dalam sistem teknologi yang dikenal sebagai Teknologi Informasi dan Komunikasi (Information and Communication Technology), karena melalui pemfungsian Informatika-lah diperoleh produk-produk perangkat
+        ">Sistem Informasi merupakan salah satu core technology dalam sistem teknologi yang dikenal sebagai Teknologi Informasi dan Komunikasi (Information and Communication Technology), karena melalui pemfungsian Sistem Informasi-lah diperoleh produk-produk perangkat
             lunak (software products) yang memungkinkan terwujudnya sifat intelligent dari Teknologi Informasi dan Komunikasi. Teknologi Informasi dan Komunikasi merupakan strategic enabling technology dalam menopang upaya pencerdasan kehidupan bangsa</p>
 
         <div>
@@ -285,7 +285,7 @@
                         22381</label>
                     <br><br><br>
                     <label for=" ">+62822988XXXXX</label><br>
-                    <label for=" "><i>Informatika@del.ac.id</i></label>
+                    <label for=" "><i>Sistem.Informasi@del.ac.id</i></label>
                 </div>
                 <div class="col-sm ">
                     <p>Enter your email address to subscribe to this blog and receive notifications of new posts by
@@ -299,7 +299,7 @@
                 </div>
             </div>
         </div>
-        <p class="m-0 p-0 bg-dark text-light ">© 2022 Program Studi S1 INFORMATIKA - IT Del</p>
+        <p class="m-0 p-0 bg-dark text-light ">© 2022 Program Studi S1 Sistem Informasi - IT Del</p>
     </div>
 
 </body>
