@@ -38,7 +38,7 @@
 </head>
 
 <section class="text-body">
-    <h1 class="text-body text-center" style="font-size: 3em;"><b>Struktur Kurikulum <br> Program Studi Informatika</b></h1>
+    <h1 class="text-body text-center" style="font-size: 3em;"><b>Struktur Kurikulum <br> Program Studi Sistem Informasi</b></h1>
     <div class="container mt-5">
         <form id="formFilterByYear">
             <div class="form-row">
